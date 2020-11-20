@@ -5,7 +5,7 @@
 - Big Data techniques for IoT
 - Hacking and repairing things
 
-### Repo I'm proud of:
+### Repos I'm proud of:
 - [todolist](https://github.com/rickie95/todolist): a basic task tracer. (#Java, #Maven, #Jenkins, #UnitTesting, #CodeCoverage)
 - [power-predictor](https://github.com/rickie95/power-predictor): reconstruction of power consumption profiles with Facebook Prophet (#Python, #DataAnalysis, #MachineLearning)
 - [3DMMRegistration](https://github.com/rickie95/3DMMRegistration): all-in-one solution for point clouds registration and alignment. (#Python, #PyQt, #3D)
